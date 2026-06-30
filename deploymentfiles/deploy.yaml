@@ -24,6 +24,6 @@ spec:
     spec:
       containers: 
       - name: facebook-container
-        image: naveen1129/mindcircuit17:18
+        image: naveen1129/mindcircuit17:23
         ports:
         - containerPort: 8080
